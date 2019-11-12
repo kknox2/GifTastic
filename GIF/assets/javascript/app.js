@@ -9,7 +9,7 @@ $(document).ready(function() {
   // function to make buttons and add to page
   function populateButtons(restaurantArray, foodPlaces, restaurantButtons) {
     
-    //clears area before adding buttons
+    //clear before adding buttons
     $(restaurantButtons).empty();
     // Loops through the array of topics to create buttons for all topics
 
